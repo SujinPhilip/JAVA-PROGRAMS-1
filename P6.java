@@ -4,8 +4,8 @@ public class P6{
 	int i,n=10;
 	for(i=1;i<=n;i++){
 		if(n%i==0){
-		System.out.println("Factorial of "+n+" = "+b);
+		System.out.println("Factorial of "+n+" = "+i);
 		}
 	}
 }
-		
+}
