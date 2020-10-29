@@ -1,3 +1,5 @@
+//Program to Check Whether a Number is pallindrome or not
+
 import java.io.*;
 public class P9{
 	public static void main(String[] args) {
