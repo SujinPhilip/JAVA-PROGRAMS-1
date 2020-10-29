@@ -1,3 +1,5 @@
+//Program to Check Whether a Number is odd or even
+
 import java.io.*;
 public class P3{
   public static void main(String args[]){
