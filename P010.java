@@ -1,3 +1,5 @@
+//Program to Check Whether a Number is Amstrong or Not
+
 import java.io.*;
 public class P10{
 	public static void main(String[] args) {
